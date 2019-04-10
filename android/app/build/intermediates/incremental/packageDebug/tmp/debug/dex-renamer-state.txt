@@ -1,0 +1,4 @@
+#Wed Apr 10 11:43:10 PHT 2019
+base.0=/home/daniel_andal/code/payorlink_mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,3 @@
+rootProject.name = 'payorlink_mobile'
+
+include ':app'
